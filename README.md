@@ -1,4 +1,24 @@
-## Introduction
+# Exploratory Data Analysis Project 1 - Johns Hopkins University
+Author: María Cristina Alameda Salas <br />
+
+## About this course
+This course provides a comprehensive overview of the subject *Exlporatory Data Analysis (EDA)*. It covers the following topics:
+- Cluster analysis
+- Ggplot2
+- R Programming 
+- EDA
+
+
+## What did I learnt
+- Understand analytic graphics and the base plotting system in R
+
+- Use advanced graphing systems such as the Lattice system
+
+- Make graphical displays of very high dimensional data
+
+- Apply cluster analysis techniques to locate patterns in data
+
+## Project
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
